@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 <!--
 **Maryvictor/Maryvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
