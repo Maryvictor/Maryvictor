@@ -12,6 +12,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8)](https://github.com/Maryvictor/github-readme-stats)
+
+
 
 
 
