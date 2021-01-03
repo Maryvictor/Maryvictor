@@ -8,11 +8,14 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maryvictor)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8)](https://github.com/Maryvictor/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&layout=compact)](https://github.com/Maryvictor/github-readme-stats)
+
 
 
 
