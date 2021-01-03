@@ -8,6 +8,9 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
 
+[! [wakatime stats] (https://github-readme-stats.vercel.app/api/wakatime ? username = Mayvictor )] (https://github.com/Maryvictor/github-readme-stats)
+
+
 
 
 
