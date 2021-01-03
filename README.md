@@ -16,6 +16,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&layout=compact)](https://github.com/Maryvictor/github-readme-stats)
 
+<a href="https://github.com/Maryvictor/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryvictor&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Maryvictor/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryvictor&repo=convoychat" />
+</a>
+
 
 
 
