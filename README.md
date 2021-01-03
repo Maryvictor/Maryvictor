@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-victor/)](https://www.linkedin.com/in/maria-victor/)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
+
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
 
@@ -16,18 +16,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&layout=compact)](https://github.com/Maryvictor/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Maryvictor&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=blueberry"
-    />
-  </a>
-</p>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=radical)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green)
 
 
 
