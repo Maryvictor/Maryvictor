@@ -4,9 +4,11 @@
 
 <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
 
-<a href="<https://www.linkedin.com/in/maria-victor/>"
- <img align="left" alt="Linkedin" witdth="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
+<a href="<https://www.linkedin.com/in/maria-victor/>">
+   <img align="left" alt="Linkedin" witdth="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<code><img alt="teste" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
 
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
