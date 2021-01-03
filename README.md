@@ -1,20 +1,12 @@
-### Hi there 👋
 
-# Hi, I'm Maria! 
-<img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
+
+# Hi, I'm Maria! <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-victor/)](https://www.linkedin.com/in/maria-victor/)
 
 
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor)](https://github.com/Maryvictor/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8)](https://github.com/Maryvictor/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&layout=compact)](https://github.com/Maryvictor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8)](https://github.com/Maryvictor/github-readme-stats
 
 
 
