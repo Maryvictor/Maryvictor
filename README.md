@@ -4,7 +4,7 @@
 
 <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
 
-<a href="<https://www.linkedin.com/in/maria-victor/>">
+<a href="<https://www.linkedin.com/in/maria-victor/>"
  <img align="left" alt="Linkedin" witdth="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
 
