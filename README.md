@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="hi" src="https://gph.is/g/ZkNOn3d" width="30"/>
+<img alt="hi" src="https://tenor.com/view/coreaninha-svlucas-linda-fofa-coreaninha1801-gif-19159823" width="30"/>
 
 <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
 
