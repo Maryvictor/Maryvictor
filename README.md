@@ -23,7 +23,7 @@
 
 
  
- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+ [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@maria.victor320)]
 <!--
 **Maryvictor/Maryvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
