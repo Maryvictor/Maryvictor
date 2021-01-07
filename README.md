@@ -15,6 +15,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green)
 
+<code><img height="32" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c++"/></code>
+
 
 
 
