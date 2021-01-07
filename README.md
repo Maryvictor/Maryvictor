@@ -5,7 +5,7 @@
    
    
    
-   
+  <div class="tenor-gif-embed" data-postid="19159823" data-share-method="host" data-width="100%" data-aspect-ratio="1.1318181818181818"><a href="https://tenor.com/view/coreaninha-svlucas-linda-fofa-coreaninha1801-gif-19159823">Coreaninha Svlucas GIF</a> from <a href="https://tenor.com/search/coreaninha-gifs">Coreaninha GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> 
    
    ### Sobre mim
 
