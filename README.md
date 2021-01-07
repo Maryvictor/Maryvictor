@@ -8,7 +8,7 @@
 
 
 <a href="https://www.linkedin.com/in/maria-victor/">
-  <code><img alt="My LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></code>
+  <code><img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
 
 <a href="https://medium.com/@maria.victor320/">
