@@ -40,13 +40,13 @@
 
 
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8&show_icons=true&theme=blue-green" />
 </p>
 
 
 
-<p align="right">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green" />
 </p>
 
