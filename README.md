@@ -4,13 +4,13 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-victor/)](https://www.linkedin.com/in/maria-victor/)
-![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@maria.victor320/)
+<a href="https://medium.com/@maria.victor320/">
+  <code><img alt="My Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8)](https://github.com/Maryvictor/github-readme-stats/)
 
-<a href="https://medium.com/@maria.victor320/">
-  <code><img alt="My linkedin" width="28" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
-</a>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green)
 
 
