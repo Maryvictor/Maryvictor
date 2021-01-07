@@ -12,6 +12,7 @@
 - Estudante de Análise e Desenvolvimento na FATEC SP
 
 ### Onde me encontrar
+
 <a href="https://www.linkedin.com/in/maria-victor/">
   <code><img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
@@ -22,7 +23,9 @@
 
 <br/><br/>
 
-###Skills
+### Skills
+
+
 <code><img height="32" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c++"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></code>
@@ -34,16 +37,16 @@
 <code><img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="angular"/></code>
 
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8&show_icons=true&theme=blue-green)](https://github.com/Maryvictor/github-readme-stats/)
 
 
-<p align="center">
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8&show_icons=true&theme=blue-green" />
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green)
 
-<p align="center">
+
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green" />
 </p>
 
