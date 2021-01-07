@@ -1,7 +1,7 @@
 
 
 # Oie, eu sou a Maria! <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
-
+<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
    ### Sobre mim
 
 - Desenvolvedora Júnior na Carambola
