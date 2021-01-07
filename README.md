@@ -2,11 +2,6 @@
 
 # Hi, I'm Maria! <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-victor/)](https://www.linkedin.com/in/maria-victor/)
-
-
-
 <a href="https://www.linkedin.com/in/maria-victor/">
   <code><img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
@@ -31,7 +26,7 @@
 
  
  
-**Maryvictor/Maryvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> **Maryvictor/Maryvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
