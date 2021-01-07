@@ -2,6 +2,11 @@
 
 # Hi, I'm Maria! <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
 
+   ### Sobre mim
+
+- Desenvolvedora Júnior na Carambola
+- Estudante de Análise e Desenvolvimento na FATEC SP
+
 <a href="https://www.linkedin.com/in/maria-victor/">
   <code><img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
