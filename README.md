@@ -48,6 +48,12 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green" />
+  
+  
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/MaryVictor/MaryVictor" alt="Visitors badge" />
+   </a>
+
 
 
 
