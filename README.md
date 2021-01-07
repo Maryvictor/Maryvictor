@@ -11,6 +11,7 @@
 - Desenvolvedora Júnior na Carambola
 - Estudante de Análise e Desenvolvimento na FATEC SP
 
+### Onde me encontrar
 <a href="https://www.linkedin.com/in/maria-victor/">
   <code><img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
