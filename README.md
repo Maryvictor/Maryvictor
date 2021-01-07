@@ -1,7 +1,7 @@
 
 
 # Oie, eu sou a Maria! <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
-<img align="right" width="40%" src="https://tenor.com/view/coreaninha-svlucas-linda-fofa-coreaninha1801-gif-19159823" alt="Basecamp sky" />
+<img align="right" width="40%" src="https://tenor.com/view/coreaninha-svlucas-linda-fofa-coreaninha1801-gif-19159823.gif" alt="Basecamp sky" />
    
    
    
