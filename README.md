@@ -1,11 +1,10 @@
 
 
 # Oie, eu sou a Maria! <img alt="hi" src="https://emojis.slackmojis.com/emojis/images/1572027739/6832/blob_cheer.png?1572027739" width="30"/>
-<img align="right" width="40%" src="https://tenor.com/view/coreaninha-svlucas-linda-fofa-coreaninha1801-gif-19159823.gif" alt="Basecamp sky" />
+<img align="left" width="20%" src="https://tenor.com/view/coreaninha-svlucas-linda-fofa-coreaninha1801-gif-19159823.gif" alt="Basecamp sky" />
    
    
-   
-  <div class="tenor-gif-embed" data-postid="19159823" data-share-method="host" data-width="100%" data-aspect-ratio="1.1318181818181818"><a href="https://tenor.com/view/coreaninha-svlucas-linda-fofa-coreaninha1801-gif-19159823">Coreaninha Svlucas GIF</a> from <a href="https://tenor.com/search/coreaninha-gifs">Coreaninha GIFs</a></div>
+
    
    ### Sobre mim
 
