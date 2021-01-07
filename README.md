@@ -8,7 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8)](https://github.com/Maryvictor/github-readme-stats/)
 
-
+<a href="https://medium.com/@maria.victor320/">
+  <code><img alt="My linkedin" width="28" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
+</a>
 ![github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green)
 
 
