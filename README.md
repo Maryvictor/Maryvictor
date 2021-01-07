@@ -21,6 +21,8 @@
 </a>
 
 <br/><br/>
+
+###Skills
 <code><img height="32" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c++"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></code>
@@ -35,7 +37,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8&show_icons=true&theme=blue-green)](https://github.com/Maryvictor/github-readme-stats/)
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryvictor&langs_count=8&show_icons=true&theme=blue-green" />
+</p>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maryvictor&show_icons=true&theme=blue-green" />
+</p>
 
 
 
