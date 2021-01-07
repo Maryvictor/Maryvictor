@@ -4,6 +4,13 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-victor/)](https://www.linkedin.com/in/maria-victor/)
+
+
+
+<a href="https://www.linkedin.com/in/maria-victor/">
+  <code><img alt="My LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></code>
+</a>
+
 <a href="https://medium.com/@maria.victor320/">
   <code><img alt="My Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
 </a>
