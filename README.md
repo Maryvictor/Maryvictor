@@ -8,7 +8,7 @@
    
    ### Sobre mim
 
-- Desenvolvedora Júnior na Carambola
+- Desenvolvedora Júnior
 - Estudante de Análise e Desenvolvimento na FATEC SP
 
 ### Onde me encontrar
