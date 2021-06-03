@@ -9,8 +9,9 @@
    
    ### Sobre mim
 
-Sou Desenvolvedora Júnior na Mundo Livre Digital e estudante de Análise e Desenvolvimento de Sistemas na FATEC SP. 
-Sou apaixonada por ciência e tecnologia e defendo causas como educação, cultura e diversidade, sendo ativa em comunidades de Mulheres em TI.
+- Desenvolvedora Júnior na Mundo Livre Digital 
+- Estudante de Análise e Desenvolvimento de Sistemas na FATEC SP. 
+- Sou apaixonada por ciência e tecnologia e defendo causas como educação, cultura e diversidade, sendo ativa em comunidades de Mulheres em TI.
 
 ### Onde me encontrar
 
