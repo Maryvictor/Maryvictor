@@ -2,7 +2,7 @@
 
 # Oie, eu sou a Maria! 
 <img width="20%" src="https://media1.tenor.com/images/fbc15b76f3b4cd7a0a35e64f8d982377/tenor.gif?itemid=16673678" alt="Basecamp sky" />
-https://media1.tenor.com/images/fbc15b76f3b4cd7a0a35e64f8d982377/tenor.gif?itemid=16673678
+
 
    
    
