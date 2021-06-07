@@ -20,7 +20,7 @@
   <code><img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
 
-<a href="https://medium.com/@maria.victor/">
+<a href="https://maria-victor.medium.com/">
   <code><img alt="My Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
 </a>
 
