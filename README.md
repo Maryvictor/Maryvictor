@@ -1,7 +1,7 @@
 
 
 # Oie, eu sou a Maria! 
-<img width="20%" src="https://www.behance.net/gallery/53820011/Walking-My-Dog-Animated-Gif.gif" alt="Basecamp sky" />
+<img width="20%" src="https://user-images.githubusercontent.com/54823595/122487895-abe56d00-cfb2-11eb-8fb2-130f92225b52.gif" alt="dog" />
 
 
    
