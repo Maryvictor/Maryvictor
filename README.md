@@ -29,5 +29,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/https:/maria-victor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-victor" height="30" width="40" /></a>
 <a href="https://kaggle.com/mariavictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mariavictor" height="30" width="40" /></a>
+ <a href="https://maria-victor.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://maria-victor.medium.com/" height="30" width="40" /></a>
 </p>
-<a href="https://maria-victor.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://maria-victor.medium.com/" height="30" width="40" /></a>
