@@ -24,6 +24,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryvictor&" alt="maryvictor" /></p>
 
+#### 📕 Confire meus últimos artigos:
+<!-- BLOG-POST-LIST:START -->
+- [Entenda o que é Análise de Sentimento](https://maria-victor.medium.com/o-que-%C3%A9-an%C3%A1lise-de-sentimento-377774112aaf)
+<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
