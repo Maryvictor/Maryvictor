@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- :woman_technologist: Eu trabalho atualmente como **Analista de Dados** na [Mundo Livre Digital](https://mundolivredigital.com.br/)
+- :woman_technologist: Sou **Analista de Dados**  
 
 - Estudante de Análise e Desenvolvimento de Sistemas na FATEC SP :woman_student:
 
@@ -13,7 +13,7 @@
 
 - Eu atualmente estou estudando sobre **Python, R, Data Cience, Machine Learning, Power BI**
 
-- Eu regularmente estou escrevendo no [Medium](https://maria-victor.medium.com/) 📝
+- Gosto de escrever no Medium [Medium](https://maria-victor.medium.com/) 📝
 
 
 
