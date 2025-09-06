@@ -8,6 +8,7 @@
 - :woman_technologist: Sou **Analista de Dados**  
 
 - Formada em Análise e Desenvolvimento de Sistemas pela FATEC SP :woman_student:
+- MBA em Data Science pela FIA 
 
 - Sou apaixonada por ciência e tecnologia e defendo causas como educação, cultura e diversidade, sendo ativa em comunidades de Mulheres em TI :girl: :woman_scientist: :woman_teacher:
 
